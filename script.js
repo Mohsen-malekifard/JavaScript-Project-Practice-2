@@ -1,8 +1,8 @@
-const Score = 20;
+const score = 20;
 
-if (Score >= 18) {
+if (score >= 18) {
   console.log("Nice");
-}else if (Score >= 10 && Score < 18) {
+}else if (score >= 10 && score < 18) {
   console.log("To Ghabol Shody");
 }else {
   console.log("To Rad Shody");
